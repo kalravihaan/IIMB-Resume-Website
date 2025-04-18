@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vihaan's Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Vihaan</h1>
+    <p>Web Developer | Designer | Resume Consultant</p>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#experience">Experience</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about" class="card">
+    <h2>About Me</h2>
+    <p>I’m a passionate web developer with a knack for design and creating meaningful user experiences. I also offer resume consultation services.</p>
+  </section>
+
+  <section id="experience" class="card">
+    <h2>Experience</h2>
+    <ul>
+      <li><strong>Resume Rescue</strong> – Founder (2025)</li>
+      <li>Intern @ Akanksha Foundation – Laxmi Nagar MPS</li>
+    </ul>
+  </section>
+
+  <section id="projects" class="card">
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="#">Personal Portfolio Website</a></li>
+      <li><a href="#">Resume Rescue Platform</a></li>
+    </ul>
+  </section>
+
+  <section id="contact" class="card">
+    <h2>Contact</h2>
+    <p>Email: vihaan@example.com</p>
+    <p>LinkedIn: <a href="#">linkedin.com/in/vihaan</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Vihaan. All rights reserved.</p>
+  </footer>
+</body>
+</html>
